@@ -4,19 +4,19 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.heading-1 {
+.heading--1 {
     font-weight: normal;
     color: white;
     font-size: 50px;
 }
 
-.heading-2 {
+.heading--2 {
     font-weight: 300;
     color: white;
     font-size: 42px;
 }
 
-.heading-4 {
+.heading--4 {
     font-size: 21px;
     color: gray;
 }
@@ -28,4 +28,5 @@ body {
 
 .wordmark {
     text-align: right;
+    color: gray;
 }
