@@ -1,24 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie-edge">
-        <title>Excursion</title>
-        <link rel="stylesheet" type="text/css" href="resrouces/css/style.css">
-    </head>
-    <body>
-        <h1>Discover Hidden Places in the world around you"</h1>
-        <p><a href="#">"Download Excursion (Coming Soon)"</a></p>
-        <p><a href="#"></a></p>
-        <p><h2>Your personal travel guide</h2></p>
-        <p><h6>Excursion remembers places you like, and recommends new points of interest around you.</h6></p>
-        <p><a href="~/OneDrive/Desktop/excursions/resources/images/camp.jpg"></a></p>
-        <p><a href="~/OneDrive/Desktop/excursions/resources/images/phone.png"></a></p>
-        <p><h2>Coming soon for iPhone and Android</h2></p>
-        <p><a href="#">"Download Excursion (Coming Soon)"</a></p>
-    </body>
-    <footer>
-        <p></p> // excursion watermark 
-    </footer>
-</html>
+body {
+    text-align: center;
+}
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: verdada;
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+}
+
+h6 {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
