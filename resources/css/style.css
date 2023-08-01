@@ -1,24 +1,22 @@
 body {
     text-align: center;
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.heading-1 {
     font-weight: normal;
     color: white;
     font-size: 50px;
 }
 
-h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.heading-2 {
     font-weight: 300;
     color: white;
     font-size: 42px;
 }
 
-h4 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.heading-4 {
     font-size: 21px;
     color: gray;
 }
@@ -28,3 +26,6 @@ h4 {
     font-size: 16px;
 }
 
+.wordmark {
+    text-align: right;
+}
